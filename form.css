@@ -1,0 +1,129 @@
+
+
+label{
+    display: inline-block;
+    float: left;
+    clear: left;
+    width: 250px;
+    text-align: right;
+}
+input {
+  display: inline-block;
+  float: left;
+}
+
+
+#divId{font-size: 14px;}
+  .ui-widget-header {
+
+    border: 1px solid #DCDCDC;
+    color: #FFFFFF;
+    font-weight: bold;
+  }
+
+#FormDiv{
+	position: relative;
+  left: 420px;
+  border: 3px double #DCDCDC;
+  max-height:400px;
+  max-width: 650px;
+  background-color: #DCDCDC;
+  
+}
+
+#resetForm{
+	position: relative;
+	left: 260px;
+	margin-bottom: 15px;
+	background-color: #20B2AA;
+	border: none;
+	color: white;
+	cursor: pointer;
+	border-radius: 4px;
+}
+
+#result{
+	position: relative;
+	left:240px;
+	margin-bottom: 15px;
+	background-color: #20B2AA;
+	border: none;
+    color: white;
+    cursor: pointer;
+    border-radius: 4px;
+}
+
+h2{
+	text-align: center;
+  margin-bottom: 5px;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+	
+}
+
+.not-found{
+	text-align: center;
+}
+
+.locations{
+  width: 100%;
+  height: 500px;
+  
+  margin: auto;
+  padding: 10px;
+}
+
+.locations-details{
+  font-size:12px;
+  background-color:#DCDCDC;
+  font-style:bold;
+  width: 50%;
+   height: 400px;
+  float:left;
+}
+
+/*.locations-map{
+margin-left: 15%;
+height: 400px;
+width:50%;
+position: relative;
+left:300px;
+}*/
+
+
+.GeneralDiv{
+  font-size:12px;
+  background-color:#DCDCDC;
+  font-style:bold;
+}
+
+.TreatmentDiv{
+font-size:12px;
+background-color:#DCDCDC;
+font-style:bold;
+}
+
+
+.EquipmentDiv{
+  font-size:12px;
+  background-color:#DCDCDC;
+  font-style:bold;
+}
+
+.FacilitiesDiv{
+  font-size:12px;
+  background-color:#DCDCDC;
+  font-style:bold;
+}
+
+.PhysiciansDiv{
+  font-size:12px;
+  background-color:#DCDCDC;
+  font-style:bold;
+}
+
+.TrainingDiv{
+  font-size:12px;
+  background-color:#DCDCDC;
+  font-style:bold;
+}

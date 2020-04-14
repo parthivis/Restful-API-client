@@ -1,0 +1,1 @@
+let trainingContent = '<div id = "trainingContent"></div>';
